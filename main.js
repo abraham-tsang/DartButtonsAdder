@@ -85,18 +85,30 @@ filenamesi = 0;
 for(var i = 0; i < 4; i++){
     for(var j = 0; j < finalwords[i].length; j++){
 	for(var k = 0; k < translations[i].length; k++){
-	    
+	    if(translations[i][k].split(' ')[0] == finalwords[i][j]){
+		result[i].push(translations[i][k]);
+	    }
 	}
     }
 }
-
+/*
+for(var i = 0; i < 4; i++){
+    for(var j = 0; j < finalwords[i].length; j++){
+	for(var k = 0; k < filenames[i].length; k++){
+	    if(filenames[i][k].substr(17, filenames[i][k].length - (17 + 4)) == finalwords[i][j]){
+		result[i][j] = result[i][j] + '  ' + filenames[i][k];
+	    }
+	}
+    }
+}
+*/
 
 //console.log(translations);
 //console.log(filenames);
 //console.log(translationswords);
 //console.log(filenameswords);
 //console.log(finalwords);
-//console.log(result);
+console.log(result);
 
 //fs.writeFileSync('result.txt', '');
 //fs.appendFileSync('result.txt', finalwords[3]);
