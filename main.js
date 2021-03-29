@@ -84,24 +84,21 @@ filenamesi = 0;
 
 for(var i = 0; i < 4; i++){
     for(var j = 0; j < finalwords[i].length; j++){
+	result[i].push('');
 	for(var k = 0; k < translations[i].length; k++){
 	    if(translations[i][k].split(' ')[0] == finalwords[i][j]){
-		result[i].push(translations[i][k]);
+		result[i][result[i].length - 1] += translations[i][k];
+		break;
 	    }
 	}
-    }
-}
-/*
-for(var i = 0; i < 4; i++){
-    for(var j = 0; j < finalwords[i].length; j++){
 	for(var k = 0; k < filenames[i].length; k++){
 	    if(filenames[i][k].substr(17, filenames[i][k].length - (17 + 4)) == finalwords[i][j]){
-		result[i][j] = result[i][j] + '  ' + filenames[i][k];
+		result[i][result[i].length - 1] += '  ' + filenames[i][k];
+		break;
 	    }
 	}
     }
 }
-*/
 
 //console.log(translations);
 //console.log(filenames);
