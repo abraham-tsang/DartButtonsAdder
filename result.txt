@@ -1,408 +1,2443 @@
-合
-contract  pronunciation_zh_一.mp3,艺术家
-artist  pronunciation_zh_一世.mp3,中
-break  pronunciation_zh_一月.mp3,厨
-cook  pronunciation_zh_七.mp3,
-dust  pronunciation_zh_七十.mp3,攻
-attack  pronunciation_zh_七月.mp3,早餐
-breakfast  pronunciation_zh_丈夫.mp3,
-cool  pronunciation_zh_三.mp3,耳
-ear  pronunciation_zh_三十.mp3,八月
-August  pronunciation_zh_下.mp3,铜
-copper  pronunciation_zh_下午.mp3,地球
-Earth  pronunciation_zh_不错.mp3,作
-author  pronunciation_zh_丑陋.mp3,哥哥
-brother  pronunciation_zh_世界.mp3,玉米
-corn  pronunciation_zh_东.mp3,宝宝
-baby  pronunciation_zh_丰富.mp3,
-eat  pronunciation_zh_九.mp3,背
-back  pronunciation_zh_九十.mp3,建
-build  pronunciation_zh_九月.mp3,计
-count  pronunciation_zh_书.mp3,边缘
-edge  pronunciation_zh_二.mp3,后
-back  pronunciation_zh_二十.mp3,国
-country  pronunciation_zh_二月.mp3,蛋
-egg  pronunciation_zh_五.mp3,坏
-bad  pronunciation_zh_五十.mp3,
-burn  pronunciation_zh_人 (1).mp3,总线
-bus  pronunciation_zh_他.mp3,牛
-cow  pronunciation_zh_他们.mp3,十八
-eighteen  pronunciation_zh_仪表.mp3,球
-ball  pronunciation_zh_价钱.mp3,购
-buy  pronunciation_zh_伤心.mp3,八十
-eighty  pronunciation_zh_低.mp3,蛋糕
-cake  pronunciation_zh_侧.mp3,选举
-election  pronunciation_zh_信件.mp3,杯子
-cup  pronunciation_zh_健康.mp3,电子产品
-electronics  pronunciation_zh_儿子.mp3,银行
-bank  pronunciation_zh_儿童.mp3,相机
-camera  pronunciation_zh_元音.mp3,酒
-bar  pronunciation_zh_八十.mp3,营
-camp  pronunciation_zh_八月.mp3,能源
-energy  pronunciation_zh_公寓.mp3,浴室
-bathroom  pronunciation_zh_公斤.mp3,汽车
-car  pronunciation_zh_六.mp3,舞
-dance  pronunciation_zh_六十.mp3,发动机
-engine  pronunciation_zh_六月.mp3,卡
-card  pronunciation_zh_内.mp3,黑暗
-dark  pronunciation_zh_军队.mp3,胡子
-beard  pronunciation_zh_冬季.mp3,携
-carry  pronunciation_zh_冰.mp3,日
-date  pronunciation_zh_冷.mp3,节
-beat  pronunciation_zh_刀.mp3,猫
-cat  pronunciation_zh_分钟.mp3,女儿
-daughter  pronunciation_zh_剧院.mp3,昂贵
-expensive  pronunciation_zh_办公室.mp3,美丽
-beautiful  pronunciation_zh_动物.mp3,抓
-catch  pronunciation_zh_动词.mp3,天
-day  pronunciation_zh_勺.mp3,爆
-explode  pronunciation_zh_北.mp3,床
-bed  pronunciation_zh_医生.mp3,天花板
-ceiling  pronunciation_zh_医院.mp3,死
-dead  pronunciation_zh_十.mp3,眼
-eye  pronunciation_zh_十一.mp3,卧室
-bedroom  pronunciation_zh_十一月.mp3,细胞
-cell  pronunciation_zh_十七.mp3,电话
-phone  pronunciation_zh_十三.mp3,聋
-deaf  pronunciation_zh_十九.mp3,
-face  pronunciation_zh_十二.mp3,牛肉
-beef  pronunciation_zh_十二月.mp3,厘米
-centimeter  pronunciation_zh_十五.mp3,死亡
-death  pronunciation_zh_十亿.mp3,金秋时节）
-fall  pronunciation_zh_十八.mp3,啤酒
-beer  pronunciation_zh_十六.mp3,椅
-chair  pronunciation_zh_十四.mp3,十二月
-December  pronunciation_zh_十月.mp3,下
-fall  pronunciation_zh_千.mp3,弯
-bend  pronunciation_zh_午餐.mp3,便宜的
-cheap  pronunciation_zh_半.mp3,深
-deep  pronunciation_zh_南.mp3,家庭
-family  pronunciation_zh_卡.mp3,饮料
-beverage  pronunciation_zh_卡车.mp3,起司
-cheese  pronunciation_zh_卧室.mp3,钻石
-diamond  pronunciation_zh_厘米.mp3,著名
-famous  pronunciation_zh_厚.mp3,鸡
-chicken  pronunciation_zh_厨房.mp3,
-die  pronunciation_zh_叉子.mp3,风
-fan  pronunciation_zh_发动机.mp3,儿童
-child  pronunciation_zh_受害者.mp3,
-dig  pronunciation_zh_口.mp3,风
-fan  pronunciation_zh_口袋.mp3,教会
-church  pronunciation_zh_叶.mp3,
-circle  pronunciation_zh_向上.mp3,方向
-direction  pronunciation_zh_听.mp3,快速
-fast  pronunciation_zh_周.mp3,市
-city  pronunciation_zh_和平.mp3,脏
-dirty  pronunciation_zh_咖啡.mp3,二月
-February  pronunciation_zh_哥哥.mp3,头发
-hair  pronunciation_zh_唇.mp3,百万
-million  pronunciation_zh_唱.mp3,半
-half  pronunciation_zh_啤酒.mp3,膝盖
-knee  pronunciation_zh_四.mp3,分钟
-minute  pronunciation_zh_四十.mp3,女
-female  pronunciation_zh_四月.mp3,刀
-knife  pronunciation_zh_图书馆.mp3,混合/搅
-mix/stir  pronunciation_zh_图片.mp3,
-hang  pronunciation_zh_地图.mp3,湖
-lake  pronunciation_zh_地板.mp3,星期一
-Monday  pronunciation_zh_地狱.mp3,第五
-fifth  pronunciation_zh_地球.mp3,快乐
-happy  pronunciation_zh_地面.mp3,钱
-money  pronunciation_zh_坏.mp3,硬
-hard  pronunciation_zh_塑料.mp3,笔记本电脑
-laptop  pronunciation_zh_壁.mp3,月
-month  pronunciation_zh_士兵.mp3,帽子
-hat  pronunciation_zh_声音 (1).mp3,
-laugh  pronunciation_zh_夏季.mp3,月亮
-moon  pronunciation_zh_外.mp3,律师
-lawyer  pronunciation_zh_大大.mp3,早上
-morning  pronunciation_zh_大学.mp3,手指
-finger  pronunciation_zh_天.mp3,头
-head  pronunciation_zh_天堂.mp3,叶
-leaf  pronunciation_zh_天空.mp3,母亲
-mother  pronunciation_zh_天花板.mp3,
-fire  pronunciation_zh_太阳.mp3,学
-learn  pronunciation_zh_头.mp3,山
-mountain  pronunciation_zh_头发.mp3,第
-first  pronunciation_zh_女.mp3,听
-hear  pronunciation_zh_女人.mp3,
-left  pronunciation_zh_女儿.mp3,鼠
-mouse  pronunciation_zh_女孩.mp3,
-fish  pronunciation_zh_女王.mp3,心
-heart  pronunciation_zh_她.mp3,腿
-leg  pronunciation_zh_好.mp3,口
-mouth  pronunciation_zh_妹妹.mp3,五
-five  pronunciation_zh_妻子.mp3,热
-heat  pronunciation_zh_婚姻.mp3,柠檬
-lemon  pronunciation_zh_婚礼.mp3,
-flat  pronunciation_zh_季节.mp3,信件
-letter  pronunciation_zh_学校.mp3,谋
-murder  pronunciation_zh_学生.mp3,地板
-floor  pronunciation_zh_它.mp3,重
-heavy  pronunciation_zh_安静.mp3,图书馆
-library  pronunciation_zh_宗教.mp3,音乐
-music  pronunciation_zh_宝宝.mp3,花
-flower  pronunciation_zh_家庭.mp3,地狱
-hell  pronunciation_zh_宽.mp3,狭窄
-narrow  pronunciation_zh_小时.mp3,
-fly  pronunciation_zh_屋.mp3,高
-high  pronunciation_zh_屋顶.mp3,提
-lift  pronunciation_zh_屏幕.mp3,性质
-nature  pronunciation_zh_山 (1).mp3,跟
-follow  pronunciation_zh_岛.mp3,光线暗）
-light  pronunciation_zh_工作 (1).mp3,颈部
-neck  pronunciation_zh_工具.mp3,餐饮
-food  pronunciation_zh_市.mp3,孔
-hole  pronunciation_zh_市场.mp3,针
-needle  pronunciation_zh_帽子.mp3,
-foot  pronunciation_zh_干.mp3,马
-horse  pronunciation_zh_干净 (1).mp3,邻居
-neighbor  pronunciation_zh_年.mp3,
-foot  pronunciation_zh_年轻.mp3,医院
-hospital  pronunciation_zh_广场.mp3,唇
-lip  pronunciation_zh_床.mp3,网络
-network  pronunciation_zh_底部.mp3,热
-hot  pronunciation_zh_建造.mp3,
-listen  pronunciation_zh_弄脏.mp3,叉子
-fork  pronunciation_zh_弯曲 (1).mp3,旅馆
-hotel  pronunciation_zh_弱.mp3,位置
-location  pronunciation_zh_强大.mp3,报纸
-newspaper  pronunciation_zh_形容词.mp3,四十
-forty  pronunciation_zh_律师.mp3,
-lock  pronunciation_zh_心.mp3,不错
-nice  pronunciation_zh_快乐.mp3,四
-four  pronunciation_zh_快速.mp3,长
-long  pronunciation_zh_性.mp3,晚
-night  pronunciation_zh_性质.mp3,十四
-fourteen  pronunciation_zh_总线.mp3,疏松
-loose  pronunciation_zh_慢.mp3,第四
-fourth  pronunciation_zh_成人.mp3,百
-hundred  pronunciation_zh_我们.mp3,十九
-nineteen  pronunciation_zh_战争.mp3,丈夫
-husband  pronunciation_zh_手.mp3,大声
-loud  pronunciation_zh_手指.mp3,九十
-ninety  pronunciation_zh_技术.mp3,
-love  pronunciation_zh_报纸.mp3,北
-north  pronunciation_zh_撕裂.mp3,花园
-garden  pronunciation_zh_教会.mp3,英寸
-inch  pronunciation_zh_数.mp3,杂志
-magazine  pronunciation_zh_新.mp3,笔
-note  pronunciation_zh_方向.mp3,汽油
-gasoline  pronunciation_zh_旅馆.mp3,受伤
-injury  pronunciation_zh_无线电.mp3,十一月
-November  pronunciation_zh_早上.mp3,礼品
-gift  pronunciation_zh_早餐.mp3,人
-man  pronunciation_zh_时钟.mp3,核
-nuclear  pronunciation_zh_昂贵.mp3,女孩
-girl  pronunciation_zh_星.mp3,乐
-instrument  pronunciation_zh_星期一.mp3,经理
-manager  pronunciation_zh_星期三.mp3,数
-number  pronunciation_zh_星期二.mp3,玻璃
-glass  pronunciation_zh_星期五.mp3,岛
-island  pronunciation_zh_星期六.mp3,地图
-map  pronunciation_zh_星期四.mp3,海洋
-ocean  pronunciation_zh_星期日.mp3,它
-it  pronunciation_zh_是.mp3,游行
-March  pronunciation_zh_晚 (1).mp3,神
-God  pronunciation_zh_晚餐.mp3,一月
-January  pronunciation_zh_最佳.mp3,市场
-market  pronunciation_zh_月.mp3,办公室
-office  pronunciation_zh_月亮.mp3,金
-gold  pronunciation_zh_朋友.mp3,工作
-job  pronunciation_zh_服务员.mp3,婚姻
-marriage  pronunciation_zh_服装.mp3,油
-oil  pronunciation_zh_木.mp3,好
-good  pronunciation_zh_杀.mp3,果汁
-juice  pronunciation_zh_杂志.mp3,结
-marry  pronunciation_zh_材料.mp3,老新）
-old  pronunciation_zh_杯子.mp3,祖父
-grandfather  pronunciation_zh_果汁.mp3,七月
-July  pronunciation_zh_枪.mp3,
-old  pronunciation_zh_柠檬.mp3,可能
-May  pronunciation_zh_树.mp3,一
-one  pronunciation_zh_核.mp3,草
-grass  pronunciation_zh_根.mp3,六月
-June  pronunciation_zh_棕色.mp3,均
-mean  pronunciation_zh_森林.mp3,绿色
-green  pronunciation_zh_歌曲.mp3,橙
-orange  pronunciation_zh_死 (1).mp3,地面
-ground  pronunciation_zh_死亡.mp3,公斤
-kilogram  pronunciation_zh_母亲.mp3,仪表
-meter  pronunciation_zh_汗.mp3,枪
-gun  pronunciation_zh_汤.mp3,
-kiss  pronunciation_zh_汽油.mp3,牛奶
-milk  pronunciation_zh_汽车.mp3,疼痛
-pain  pronunciation_zh_没有.mp3,涂料
-paint  pronunciation_zh_河.mp3,白饭
-rice  pronunciation_zh_油.mp3,六
-six  pronunciation_zh_法庭.mp3,裤子
-pants  pronunciation_zh_活.mp3,丰富
-rich  pronunciation_zh_浅.mp3,十六
-sixteen  pronunciation_zh_浴室.mp3,
-teach  pronunciation_zh_海.mp3,纸
-paper  pronunciation_zh_海洋.mp3,正
-right  pronunciation_zh_海滩.mp3,六十
-sixty  pronunciation_zh_涂料.mp3,老师
-teacher  pronunciation_zh_深.mp3,环
-ring  pronunciation_zh_温度.mp3,皮肤
-skin  pronunciation_zh_温暖.mp3,公
-park  pronunciation_zh_游戏.mp3,河
-river  pronunciation_zh_游行.mp3,短裙
-skirt  pronunciation_zh_湖.mp3,通
-pass  pronunciation_zh_演员.mp3,屋顶
-roof  pronunciation_zh_火.mp3,天空
-sky  pronunciation_zh_灯.mp3,技术
-technology  pronunciation_zh_灰色.mp3,病
-patient  pronunciation_zh_点.mp3,房
-room  pronunciation_zh_热.mp3,电话
-telephone  pronunciation_zh_照片.mp3,慢
-slow  pronunciation_zh_父亲.mp3,支
-pay  pronunciation_zh_片.mp3,运
-run  pronunciation_zh_牛.mp3,小/小
-small/little  pronunciation_zh_牛奶.mp3,温度
-temperature  pronunciation_zh_牛肉.mp3,和平
-peace  pronunciation_zh_牧师.mp3,伤心
-sad  pronunciation_zh_狗.mp3,气
-smell  pronunciation_zh_狭窄.mp3,十
-ten  pronunciation_zh_猪.mp3,钢笔
-pen  pronunciation_zh_猪肉.mp3,盐
-salt  pronunciation_zh_猫.mp3,微
-smile  pronunciation_zh_玉米.mp3,剧院
-theater  pronunciation_zh_王.mp3,铅笔
-pencil  pronunciation_zh_环.mp3,砂
-sand  pronunciation_zh_玻璃.mp3,
-snow  pronunciation_zh_球.mp3,他们
-they  pronunciation_zh_球队.mp3,人
-person  pronunciation_zh_瓶子.mp3,星期六
-Saturday  pronunciation_zh_生病.mp3,肥皂
-soap  pronunciation_zh_电子产品.mp3,厚
-thick  pronunciation_zh_电影.mp3,照片
-photograph  pronunciation_zh_电脑.mp3,学校
-school  pronunciation_zh_电视.mp3,柔软的
-soft  pronunciation_zh_电话.mp3,片
-piece  pronunciation_zh_男.mp3,科学
-science  pronunciation_zh_男孩.mp3,猪
-pig  pronunciation_zh_疾病.mp3,士兵
-soldier  pronunciation_zh_瘦.mp3,第三
-third  pronunciation_zh_白色.mp3,粉
-pink  pronunciation_zh_白饭.mp3,海
-sea  pronunciation_zh_百.mp3,儿子
-son  pronunciation_zh_百万.mp3,十三
-thirteen  pronunciation_zh_皮肤.mp3,飞机
-plane  pronunciation_zh_盐.mp3,季节
-season  pronunciation_zh_监狱.mp3,三十
-thirty  pronunciation_zh_盘子.mp3,第
-second  pronunciation_zh_直行.mp3,声音
-sound  pronunciation_zh_相机.mp3,千
-thousand  pronunciation_zh_看 (1).mp3,三
-three  pronunciation_zh_短裙.mp3,秘书
-secretary  pronunciation_zh_码.mp3,南
-south  pronunciation_zh_砂.mp3,投
-throw  pronunciation_zh_硬.mp3,看
-see  pronunciation_zh_礼品.mp3,星期四
-Thursday  pronunciation_zh_祖母.mp3,播放器
-player  pronunciation_zh_祖父.mp3,种子
-seed  pronunciation_zh_神.mp3,
-ticket  pronunciation_zh_种子.mp3,口袋
-pocket  pronunciation_zh_科学.mp3,出
-sell  pronunciation_zh_秘书.mp3,毒
-poison  pronunciation_zh_空气.mp3,九月
-September  pronunciation_zh_窗口.mp3,七
-seven  pronunciation_zh_笔记本电脑.mp3,十七
-seventeen  pronunciation_zh_第三.mp3,脚趾
-toe  pronunciation_zh_第五.mp3,较差的
-poor  pronunciation_zh_第四.mp3,七十
-seventy  pronunciation_zh_粉.mp3,弄脏
-stain  pronunciation_zh_粘土.mp3,舌
-tongue  pronunciation_zh_糖.mp3,猪肉
-pork  pronunciation_zh_紧.mp3,站
-stand  pronunciation_zh_纸.mp3,
-pound  pronunciation_zh_经理.mp3,齿
-tooth  pronunciation_zh_绿色.mp3,祈
-pray  pronunciation_zh_网络.mp3,摇动
-shake  pronunciation_zh_美丽.mp3,结石
-stone  pronunciation_zh_美元.mp3,最佳
-top  pronunciation_zh_翅膀.mp3,总统
-president  pronunciation_zh_老师.mp3,停
-stop  pronunciation_zh_耳.mp3,触
-touch  pronunciation_zh_聋.mp3,价钱
-price  pronunciation_zh_肥皂.mp3,她
-she  pronunciation_zh_肩.mp3,镇
-town  pronunciation_zh_胡子.mp3,牧师
-priest  pronunciation_zh_能源.mp3,船
-ship  pronunciation_zh_脏.mp3,直行
-straight  pronunciation_zh_脑.mp3,火
-train  pronunciation_zh_脚趾.mp3,监狱
-prison  pronunciation_zh_腿.mp3,衬衫
-shirt  pronunciation_zh_膝盖.mp3,街道/道路
-street/road  pronunciation_zh_臂.mp3,培养
-train  pronunciation_zh_自行车.mp3,站
-station  pronunciation_zh_舌.mp3,程
-program  pronunciation_zh_舞.mp3,鞋子
-shoes  pronunciation_zh_船 (1).mp3,运输
-transportation  pronunciation_zh_艺术.mp3,
-pull  pronunciation_zh_艺术家.mp3,学生
-student  pronunciation_zh_花.mp3,树
-tree  pronunciation_zh_花园.mp3,
-push  pronunciation_zh_英寸.mp3,短长）
-short  pronunciation_zh_苹果.mp3,糖
-sugar  pronunciation_zh_茶.mp3,卡车
-truck  pronunciation_zh_草.mp3,女王
-queen  pronunciation_zh_药物.mp3,西
-suit  pronunciation_zh_著名.mp3,星期二
-Tuesday  pronunciation_zh_葡萄酒.mp3,安静
-quiet  pronunciation_zh_蓝色.mp3,夏季
-summer  pronunciation_zh_蛋糕.mp3,种
-race  pronunciation_zh_血液.mp3,太阳
-sun  pronunciation_zh_表.mp3,十二
-twelve  pronunciation_zh_衬衫.mp3,比
-race  pronunciation_zh_裤子.mp3,星期日
-Sunday  pronunciation_zh_西方.mp3,标
-sign  pronunciation_zh_警察.mp3,二十
-twenty  pronunciation_zh_记者.mp3,符
-sign  pronunciation_zh_谷.mp3,二
-two  pronunciation_zh_起司.mp3,银
-silver  pronunciation_zh_身体.mp3,宗教
-religion  pronunciation_zh_辅音.mp3,唱
-sing  pronunciation_zh_边缘.mp3,记者
-reporter  pronunciation_zh_运动 (1).mp3,妹妹
-sister  pronunciation_zh_运输.mp3,高
-tall  pronunciation_zh_选举.mp3,餐厅
-restaurant  pronunciation_zh_邻居.mp3,品
-taste  pronunciation_zh_重.mp3,谷
-valley  pronunciation_zh_重量.mp3,动词
-verb  pronunciation_zh_金.mp3,
-watch  pronunciation_zh_金属.mp3,木
-wood  pronunciation_zh_针.mp3,受害者
-victim  pronunciation_zh_钢笔.mp3,
-water  pronunciation_zh_钱.mp3,白色
-white  pronunciation_zh_钻石.mp3,工
-work  pronunciation_zh_铅笔.mp3,声
-voice  pronunciation_zh_铜.mp3,波
-wave  pronunciation_zh_银.mp3,宽
-wide  pronunciation_zh_银行.mp3,世界
-world  pronunciation_zh_键.mp3,元音
-vowel  pronunciation_zh_镇.mp3,我们
-we  pronunciation_zh_长.mp3,妻子
-wife  pronunciation_zh_门.mp3,
-write  pronunciation_zh_零.mp3,服务员
-waiter  pronunciation_zh_面前.mp3,弱
-weak  pronunciation_zh_面包.mp3,码
-yard  pronunciation_zh_音乐.mp3,唤醒
-wake  pronunciation_zh_页.mp3,向
-up  pronunciation_zh_颈部.mp3,
-wind  pronunciation_zh_风.mp3,婚礼
-wedding  pronunciation_zh_飞机场.mp3,窗口
-window  pronunciation_zh_餐厅.mp3,黄色
-yellow  pronunciation_zh_餐饮.mp3,壁
-wall  pronunciation_zh_饮料.mp3,星期三
-Wednesday  pronunciation_zh_香蕉.mp3,葡萄酒
-wine  pronunciation_zh_马.mp3,战争
-war  pronunciation_zh_骨.mp3,周
-week  pronunciation_zh_高 (1).mp3,
-you  pronunciation_zh_鸟.mp3,温暖
-warm  pronunciation_zh_鸡.mp3,重量
-weight  pronunciation_zh_黄色.mp3,年轻
-young  pronunciation_zh_黑色.mp3,西方
-west  pronunciation_zh_鼻子.mp3,女人
-woman  pronunciation_zh_齿.mp3
+
+                RaisedButton(
+                  child: Text('一\none'),
+                  onPressed: (){
+                    play('pronunciation_zh_一.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('一世\nI'),
+                  onPressed: (){
+                    play('pronunciation_zh_一世.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('一月\nJanuary'),
+                  onPressed: (){
+                    play('pronunciation_zh_一月.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('七\nseven'),
+                  onPressed: (){
+                    play('pronunciation_zh_七.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('七十\nseventy'),
+                  onPressed: (){
+                    play('pronunciation_zh_七十.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('七月\nJuly'),
+                  onPressed: (){
+                    play('pronunciation_zh_七月.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('丈夫\nhusband'),
+                  onPressed: (){
+                    play('pronunciation_zh_丈夫.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('三\nthree'),
+                  onPressed: (){
+                    play('pronunciation_zh_三.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('三十\nthirty'),
+                  onPressed: (){
+                    play('pronunciation_zh_三十.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('下\ndown'),
+                  onPressed: (){
+                    play('pronunciation_zh_下.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('下午\nafternoon'),
+                  onPressed: (){
+                    play('pronunciation_zh_下午.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('不错\nnice'),
+                  onPressed: (){
+                    play('pronunciation_zh_不错.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('丑陋\nugly'),
+                  onPressed: (){
+                    play('pronunciation_zh_丑陋.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('世界\nworld'),
+                  onPressed: (){
+                    play('pronunciation_zh_世界.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('东\neast'),
+                  onPressed: (){
+                    play('pronunciation_zh_东.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('丰富\nrich'),
+                  onPressed: (){
+                    play('pronunciation_zh_丰富.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('九\nnine'),
+                  onPressed: (){
+                    play('pronunciation_zh_九.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('九十\nninety'),
+                  onPressed: (){
+                    play('pronunciation_zh_九十.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('九月\nSeptember'),
+                  onPressed: (){
+                    play('pronunciation_zh_九月.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('书\nbook'),
+                  onPressed: (){
+                    play('pronunciation_zh_书.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('二\ntwo'),
+                  onPressed: (){
+                    play('pronunciation_zh_二.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('二十\ntwenty'),
+                  onPressed: (){
+                    play('pronunciation_zh_二十.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('二月\nFebruary'),
+                  onPressed: (){
+                    play('pronunciation_zh_二月.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('五\nfive'),
+                  onPressed: (){
+                    play('pronunciation_zh_五.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('五十\nfifty'),
+                  onPressed: (){
+                    play('pronunciation_zh_五十.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('人\ncrowd'),
+                  onPressed: (){
+                    play('pronunciation_zh_人.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('他\nhe'),
+                  onPressed: (){
+                    play('pronunciation_zh_他.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('他们\nthey'),
+                  onPressed: (){
+                    play('pronunciation_zh_他们.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('仪表\nmeter'),
+                  onPressed: (){
+                    play('pronunciation_zh_仪表.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('价钱\nprice'),
+                  onPressed: (){
+                    play('pronunciation_zh_价钱.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('伤心\nsad'),
+                  onPressed: (){
+                    play('pronunciation_zh_伤心.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('低\nlow'),
+                  onPressed: (){
+                    play('pronunciation_zh_低.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('侧\nside'),
+                  onPressed: (){
+                    play('pronunciation_zh_侧.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('信件\nletter'),
+                  onPressed: (){
+                    play('pronunciation_zh_信件.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('健康\nhealthy'),
+                  onPressed: (){
+                    play('pronunciation_zh_健康.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('儿子\nson'),
+                  onPressed: (){
+                    play('pronunciation_zh_儿子.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('儿童\nchild'),
+                  onPressed: (){
+                    play('pronunciation_zh_儿童.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('元音\nvowel'),
+                  onPressed: (){
+                    play('pronunciation_zh_元音.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('八十\neighty'),
+                  onPressed: (){
+                    play('pronunciation_zh_八十.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('八月\nAugust'),
+                  onPressed: (){
+                    play('pronunciation_zh_八月.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('公寓\napartment'),
+                  onPressed: (){
+                    play('pronunciation_zh_公寓.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('公斤\nkilogram'),
+                  onPressed: (){
+                    play('pronunciation_zh_公斤.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('六\nsix'),
+                  onPressed: (){
+                    play('pronunciation_zh_六.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('六十\nsixty'),
+                  onPressed: (){
+                    play('pronunciation_zh_六十.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('六月\nJune'),
+                  onPressed: (){
+                    play('pronunciation_zh_六月.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('内\ninside'),
+                  onPressed: (){
+                    play('pronunciation_zh_内.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('军队\narmy'),
+                  onPressed: (){
+                    play('pronunciation_zh_军队.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('冬季\nwinter'),
+                  onPressed: (){
+                    play('pronunciation_zh_冬季.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('冰\nice'),
+                  onPressed: (){
+                    play('pronunciation_zh_冰.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('冷\ncold'),
+                  onPressed: (){
+                    play('pronunciation_zh_冷.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('刀\nknife'),
+                  onPressed: (){
+                    play('pronunciation_zh_刀.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('分钟\nminute'),
+                  onPressed: (){
+                    play('pronunciation_zh_分钟.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('剧院\ntheater'),
+                  onPressed: (){
+                    play('pronunciation_zh_剧院.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('办公室\noffice'),
+                  onPressed: (){
+                    play('pronunciation_zh_办公室.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('动物\nanimal'),
+                  onPressed: (){
+                    play('pronunciation_zh_动物.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('动词\nverb'),
+                  onPressed: (){
+                    play('pronunciation_zh_动词.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('勺\nspoon'),
+                  onPressed: (){
+                    play('pronunciation_zh_勺.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('北\nnorth'),
+                  onPressed: (){
+                    play('pronunciation_zh_北.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('医生\ndoctor'),
+                  onPressed: (){
+                    play('pronunciation_zh_医生.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('医院\nhospital'),
+                  onPressed: (){
+                    play('pronunciation_zh_医院.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十\nten'),
+                  onPressed: (){
+                    play('pronunciation_zh_十.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十一\neleven'),
+                  onPressed: (){
+                    play('pronunciation_zh_十一.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十一月\nNovember'),
+                  onPressed: (){
+                    play('pronunciation_zh_十一月.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十七\nseventeen'),
+                  onPressed: (){
+                    play('pronunciation_zh_十七.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十三\nthirteen'),
+                  onPressed: (){
+                    play('pronunciation_zh_十三.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十九\nnineteen'),
+                  onPressed: (){
+                    play('pronunciation_zh_十九.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十二\ntwelve'),
+                  onPressed: (){
+                    play('pronunciation_zh_十二.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十二月\nDecember'),
+                  onPressed: (){
+                    play('pronunciation_zh_十二月.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十五\nfifteen'),
+                  onPressed: (){
+                    play('pronunciation_zh_十五.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十亿\nbillion'),
+                  onPressed: (){
+                    play('pronunciation_zh_十亿.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十八\neighteen'),
+                  onPressed: (){
+                    play('pronunciation_zh_十八.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十六\nsixteen'),
+                  onPressed: (){
+                    play('pronunciation_zh_十六.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十四\nfourteen'),
+                  onPressed: (){
+                    play('pronunciation_zh_十四.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('十月\nOctober'),
+                  onPressed: (){
+                    play('pronunciation_zh_十月.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('千\nthousand'),
+                  onPressed: (){
+                    play('pronunciation_zh_千.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('午餐\nlunch'),
+                  onPressed: (){
+                    play('pronunciation_zh_午餐.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('半\nhalf'),
+                  onPressed: (){
+                    play('pronunciation_zh_半.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('南\nsouth'),
+                  onPressed: (){
+                    play('pronunciation_zh_南.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('卡\ncard'),
+                  onPressed: (){
+                    play('pronunciation_zh_卡.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('卡车\ntruck'),
+                  onPressed: (){
+                    play('pronunciation_zh_卡车.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('卧室\nbedroom'),
+                  onPressed: (){
+                    play('pronunciation_zh_卧室.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('厘米\ncentimeter'),
+                  onPressed: (){
+                    play('pronunciation_zh_厘米.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('厚\nthick'),
+                  onPressed: (){
+                    play('pronunciation_zh_厚.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('厨房\nkitchen'),
+                  onPressed: (){
+                    play('pronunciation_zh_厨房.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('叉子\nfork'),
+                  onPressed: (){
+                    play('pronunciation_zh_叉子.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('发动机\nengine'),
+                  onPressed: (){
+                    play('pronunciation_zh_发动机.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('受害者\nvictim'),
+                  onPressed: (){
+                    play('pronunciation_zh_受害者.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('口\nmouth'),
+                  onPressed: (){
+                    play('pronunciation_zh_口.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('口袋\npocket'),
+                  onPressed: (){
+                    play('pronunciation_zh_口袋.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('叶\nleaf'),
+                  onPressed: (){
+                    play('pronunciation_zh_叶.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('向上\nup'),
+                  onPressed: (){
+                    play('pronunciation_zh_向上.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('听\nhear'),
+                  onPressed: (){
+                    play('pronunciation_zh_听.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('周\nweek'),
+                  onPressed: (){
+                    play('pronunciation_zh_周.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('和平\npeace'),
+                  onPressed: (){
+                    play('pronunciation_zh_和平.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('咖啡\ncoffee'),
+                  onPressed: (){
+                    play('pronunciation_zh_咖啡.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('哥哥\nbrother'),
+                  onPressed: (){
+                    play('pronunciation_zh_哥哥.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('唇\nlip'),
+                  onPressed: (){
+                    play('pronunciation_zh_唇.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('唱\nsing'),
+                  onPressed: (){
+                    play('pronunciation_zh_唱.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('啤酒\nbeer'),
+                  onPressed: (){
+                    play('pronunciation_zh_啤酒.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('四\nfour'),
+                  onPressed: (){
+                    play('pronunciation_zh_四.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('四十\nforty'),
+                  onPressed: (){
+                    play('pronunciation_zh_四十.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('四月\nApril'),
+                  onPressed: (){
+                    play('pronunciation_zh_四月.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('图书馆\nlibrary'),
+                  onPressed: (){
+                    play('pronunciation_zh_图书馆.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('图片\nimage'),
+                  onPressed: (){
+                    play('pronunciation_zh_图片.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('地图\nmap'),
+                  onPressed: (){
+                    play('pronunciation_zh_地图.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('地板\nfloor'),
+                  onPressed: (){
+                    play('pronunciation_zh_地板.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('地狱\nhell'),
+                  onPressed: (){
+                    play('pronunciation_zh_地狱.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('地球\nEarth'),
+                  onPressed: (){
+                    play('pronunciation_zh_地球.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('地面\nground'),
+                  onPressed: (){
+                    play('pronunciation_zh_地面.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('坏\nbad'),
+                  onPressed: (){
+                    play('pronunciation_zh_坏.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('塑料\nplastic'),
+                  onPressed: (){
+                    play('pronunciation_zh_塑料.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('壁\nwall'),
+                  onPressed: (){
+                    play('pronunciation_zh_壁.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('士兵\nsoldier'),
+                  onPressed: (){
+                    play('pronunciation_zh_士兵.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('声音\nsound'),
+                  onPressed: (){
+                    play('pronunciation_zh_声音.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('夏季\nsummer'),
+                  onPressed: (){
+                    play('pronunciation_zh_夏季.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('外\noutside'),
+                  onPressed: (){
+                    play('pronunciation_zh_外.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('大大\nbig/large'),
+                  onPressed: (){
+                    play('pronunciation_zh_大大.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('大学\nuniversity'),
+                  onPressed: (){
+                    play('pronunciation_zh_大学.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('天\nday'),
+                  onPressed: (){
+                    play('pronunciation_zh_天.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('天堂\nheaven'),
+                  onPressed: (){
+                    play('pronunciation_zh_天堂.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('天空\nsky'),
+                  onPressed: (){
+                    play('pronunciation_zh_天空.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('天花板\nceiling'),
+                  onPressed: (){
+                    play('pronunciation_zh_天花板.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('太阳\nsun'),
+                  onPressed: (){
+                    play('pronunciation_zh_太阳.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('头\nhead'),
+                  onPressed: (){
+                    play('pronunciation_zh_头.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('头发\nhair'),
+                  onPressed: (){
+                    play('pronunciation_zh_头发.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('女\nfemale'),
+                  onPressed: (){
+                    play('pronunciation_zh_女.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('女人\nwoman'),
+                  onPressed: (){
+                    play('pronunciation_zh_女人.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('女儿\ndaughter'),
+                  onPressed: (){
+                    play('pronunciation_zh_女儿.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('女孩\ngirl'),
+                  onPressed: (){
+                    play('pronunciation_zh_女孩.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('女王\nqueen'),
+                  onPressed: (){
+                    play('pronunciation_zh_女王.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('她\nshe'),
+                  onPressed: (){
+                    play('pronunciation_zh_她.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('好\ngood'),
+                  onPressed: (){
+                    play('pronunciation_zh_好.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('妹妹\nsister'),
+                  onPressed: (){
+                    play('pronunciation_zh_妹妹.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('妻子\nwife'),
+                  onPressed: (){
+                    play('pronunciation_zh_妻子.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('婚姻\nmarriage'),
+                  onPressed: (){
+                    play('pronunciation_zh_婚姻.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('婚礼\nwedding'),
+                  onPressed: (){
+                    play('pronunciation_zh_婚礼.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('季节\nseason'),
+                  onPressed: (){
+                    play('pronunciation_zh_季节.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('学校\nschool'),
+                  onPressed: (){
+                    play('pronunciation_zh_学校.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('学生\nstudent'),
+                  onPressed: (){
+                    play('pronunciation_zh_学生.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('它\nit'),
+                  onPressed: (){
+                    play('pronunciation_zh_它.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('安静\nquiet'),
+                  onPressed: (){
+                    play('pronunciation_zh_安静.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('宗教\nreligion'),
+                  onPressed: (){
+                    play('pronunciation_zh_宗教.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('宝宝\nbaby'),
+                  onPressed: (){
+                    play('pronunciation_zh_宝宝.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('家庭\nfamily'),
+                  onPressed: (){
+                    play('pronunciation_zh_家庭.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('宽\nwide'),
+                  onPressed: (){
+                    play('pronunciation_zh_宽.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('小时\nhour'),
+                  onPressed: (){
+                    play('pronunciation_zh_小时.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('屋\nhouse'),
+                  onPressed: (){
+                    play('pronunciation_zh_屋.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('屋顶\nroof'),
+                  onPressed: (){
+                    play('pronunciation_zh_屋顶.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('屏幕\nscreen'),
+                  onPressed: (){
+                    play('pronunciation_zh_屏幕.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('山\nmountain'),
+                  onPressed: (){
+                    play('pronunciation_zh_山.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('岛\nisland'),
+                  onPressed: (){
+                    play('pronunciation_zh_岛.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('工作\njob'),
+                  onPressed: (){
+                    play('pronunciation_zh_工作.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('工具\ntool'),
+                  onPressed: (){
+                    play('pronunciation_zh_工具.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('市\ncity'),
+                  onPressed: (){
+                    play('pronunciation_zh_市.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('市场\nmarket'),
+                  onPressed: (){
+                    play('pronunciation_zh_市场.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('帽子\nhat'),
+                  onPressed: (){
+                    play('pronunciation_zh_帽子.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('干\nclean'),
+                  onPressed: (){
+                    play('pronunciation_zh_干.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('干净\nclean'),
+                  onPressed: (){
+                    play('pronunciation_zh_干净.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('年\nyear'),
+                  onPressed: (){
+                    play('pronunciation_zh_年.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('年轻\nyoung'),
+                  onPressed: (){
+                    play('pronunciation_zh_年轻.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('广场\nsquare'),
+                  onPressed: (){
+                    play('pronunciation_zh_广场.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('床\nbed'),
+                  onPressed: (){
+                    play('pronunciation_zh_床.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('底部\nbottom'),
+                  onPressed: (){
+                    play('pronunciation_zh_底部.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('建造\nbuilding'),
+                  onPressed: (){
+                    play('pronunciation_zh_建造.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('弄脏\nstain'),
+                  onPressed: (){
+                    play('pronunciation_zh_弄脏.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('弯曲\ncurved'),
+                  onPressed: (){
+                    play('pronunciation_zh_弯曲.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('弱\nweak'),
+                  onPressed: (){
+                    play('pronunciation_zh_弱.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('强大\nstrong'),
+                  onPressed: (){
+                    play('pronunciation_zh_强大.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('形容词\nadjective'),
+                  onPressed: (){
+                    play('pronunciation_zh_形容词.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('律师\nlawyer'),
+                  onPressed: (){
+                    play('pronunciation_zh_律师.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('心\nheart'),
+                  onPressed: (){
+                    play('pronunciation_zh_心.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('快乐\nhappy'),
+                  onPressed: (){
+                    play('pronunciation_zh_快乐.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('快速\nfast'),
+                  onPressed: (){
+                    play('pronunciation_zh_快速.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('性\nsex'),
+                  onPressed: (){
+                    play('pronunciation_zh_性.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('性质\nnature'),
+                  onPressed: (){
+                    play('pronunciation_zh_性质.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('总线\nbus'),
+                  onPressed: (){
+                    play('pronunciation_zh_总线.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('慢\nslow'),
+                  onPressed: (){
+                    play('pronunciation_zh_慢.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('成人\nadult'),
+                  onPressed: (){
+                    play('pronunciation_zh_成人.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('我们\nwe'),
+                  onPressed: (){
+                    play('pronunciation_zh_我们.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('战争\nwar'),
+                  onPressed: (){
+                    play('pronunciation_zh_战争.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('手\nhand'),
+                  onPressed: (){
+                    play('pronunciation_zh_手.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('手指\nfinger'),
+                  onPressed: (){
+                    play('pronunciation_zh_手指.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('技术\ntechnology'),
+                  onPressed: (){
+                    play('pronunciation_zh_技术.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('报纸\nnewspaper'),
+                  onPressed: (){
+                    play('pronunciation_zh_报纸.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('撕裂\ntear'),
+                  onPressed: (){
+                    play('pronunciation_zh_撕裂.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('教会\nchurch'),
+                  onPressed: (){
+                    play('pronunciation_zh_教会.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('数\nnumber'),
+                  onPressed: (){
+                    play('pronunciation_zh_数.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('新\nnew'),
+                  onPressed: (){
+                    play('pronunciation_zh_新.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('方向\ndirection'),
+                  onPressed: (){
+                    play('pronunciation_zh_方向.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('旅馆\nhotel'),
+                  onPressed: (){
+                    play('pronunciation_zh_旅馆.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('无线电\nradio'),
+                  onPressed: (){
+                    play('pronunciation_zh_无线电.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('早上\nmorning'),
+                  onPressed: (){
+                    play('pronunciation_zh_早上.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('早餐\nbreakfast'),
+                  onPressed: (){
+                    play('pronunciation_zh_早餐.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('时钟\nclock'),
+                  onPressed: (){
+                    play('pronunciation_zh_时钟.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('昂贵\nexpensive'),
+                  onPressed: (){
+                    play('pronunciation_zh_昂贵.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('星\nstar'),
+                  onPressed: (){
+                    play('pronunciation_zh_星.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('星期一\nMonday'),
+                  onPressed: (){
+                    play('pronunciation_zh_星期一.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('星期三\nWednesday'),
+                  onPressed: (){
+                    play('pronunciation_zh_星期三.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('星期二\nTuesday'),
+                  onPressed: (){
+                    play('pronunciation_zh_星期二.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('星期五\nFriday'),
+                  onPressed: (){
+                    play('pronunciation_zh_星期五.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('星期六\nSaturday'),
+                  onPressed: (){
+                    play('pronunciation_zh_星期六.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('星期四\nThursday'),
+                  onPressed: (){
+                    play('pronunciation_zh_星期四.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('星期日\nSunday'),
+                  onPressed: (){
+                    play('pronunciation_zh_星期日.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('是\nyes'),
+                  onPressed: (){
+                    play('pronunciation_zh_是.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('晚\nnight'),
+                  onPressed: (){
+                    play('pronunciation_zh_晚.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('晚餐\ndinner'),
+                  onPressed: (){
+                    play('pronunciation_zh_晚餐.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('最佳\ntop'),
+                  onPressed: (){
+                    play('pronunciation_zh_最佳.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('月\nmonth'),
+                  onPressed: (){
+                    play('pronunciation_zh_月.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('月亮\nmoon'),
+                  onPressed: (){
+                    play('pronunciation_zh_月亮.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('朋友\nfriend'),
+                  onPressed: (){
+                    play('pronunciation_zh_朋友.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('服务员\nwaiter'),
+                  onPressed: (){
+                    play('pronunciation_zh_服务员.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('服装\nclothing'),
+                  onPressed: (){
+                    play('pronunciation_zh_服装.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('木\nwood'),
+                  onPressed: (){
+                    play('pronunciation_zh_木.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('杀\nkill'),
+                  onPressed: (){
+                    play('pronunciation_zh_杀.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('杂志\nmagazine'),
+                  onPressed: (){
+                    play('pronunciation_zh_杂志.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('材料\nmaterial'),
+                  onPressed: (){
+                    play('pronunciation_zh_材料.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('杯子\ncup'),
+                  onPressed: (){
+                    play('pronunciation_zh_杯子.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('果汁\njuice'),
+                  onPressed: (){
+                    play('pronunciation_zh_果汁.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('枪\ngun'),
+                  onPressed: (){
+                    play('pronunciation_zh_枪.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('柠檬\nlemon'),
+                  onPressed: (){
+                    play('pronunciation_zh_柠檬.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('树\ntree'),
+                  onPressed: (){
+                    play('pronunciation_zh_树.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('核\nnuclear'),
+                  onPressed: (){
+                    play('pronunciation_zh_核.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('根\nroot'),
+                  onPressed: (){
+                    play('pronunciation_zh_根.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('棕色\nbrown'),
+                  onPressed: (){
+                    play('pronunciation_zh_棕色.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('森林\nforest'),
+                  onPressed: (){
+                    play('pronunciation_zh_森林.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('歌曲\nsong'),
+                  onPressed: (){
+                    play('pronunciation_zh_歌曲.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('死\ndead'),
+                  onPressed: (){
+                    play('pronunciation_zh_死.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('死亡\ndeath'),
+                  onPressed: (){
+                    play('pronunciation_zh_死亡.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('母亲\nmother'),
+                  onPressed: (){
+                    play('pronunciation_zh_母亲.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('汗\nsweat'),
+                  onPressed: (){
+                    play('pronunciation_zh_汗.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('汤\nsoup'),
+                  onPressed: (){
+                    play('pronunciation_zh_汤.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('汽油\ngasoline'),
+                  onPressed: (){
+                    play('pronunciation_zh_汽油.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('汽车\ncar'),
+                  onPressed: (){
+                    play('pronunciation_zh_汽车.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('没有\nno'),
+                  onPressed: (){
+                    play('pronunciation_zh_没有.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('河\nriver'),
+                  onPressed: (){
+                    play('pronunciation_zh_河.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('油\noil'),
+                  onPressed: (){
+                    play('pronunciation_zh_油.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('法庭\ncourt'),
+                  onPressed: (){
+                    play('pronunciation_zh_法庭.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('活\nalive'),
+                  onPressed: (){
+                    play('pronunciation_zh_活.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('浅\nshallow'),
+                  onPressed: (){
+                    play('pronunciation_zh_浅.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('浴室\nbathroom'),
+                  onPressed: (){
+                    play('pronunciation_zh_浴室.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('海\nsea'),
+                  onPressed: (){
+                    play('pronunciation_zh_海.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('海洋\nocean'),
+                  onPressed: (){
+                    play('pronunciation_zh_海洋.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('海滩\nbeach'),
+                  onPressed: (){
+                    play('pronunciation_zh_海滩.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('涂料\npaint'),
+                  onPressed: (){
+                    play('pronunciation_zh_涂料.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('深\ndeep'),
+                  onPressed: (){
+                    play('pronunciation_zh_深.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('温度\ntemperature'),
+                  onPressed: (){
+                    play('pronunciation_zh_温度.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('温暖\nwarm'),
+                  onPressed: (){
+                    play('pronunciation_zh_温暖.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('游戏\ngame'),
+                  onPressed: (){
+                    play('pronunciation_zh_游戏.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('游行\nMarch'),
+                  onPressed: (){
+                    play('pronunciation_zh_游行.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('湖\nlake'),
+                  onPressed: (){
+                    play('pronunciation_zh_湖.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('演员\nactor'),
+                  onPressed: (){
+                    play('pronunciation_zh_演员.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('火\ntrain'),
+                  onPressed: (){
+                    play('pronunciation_zh_火.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('灯\nlamp'),
+                  onPressed: (){
+                    play('pronunciation_zh_灯.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('灰色\ngray'),
+                  onPressed: (){
+                    play('pronunciation_zh_灰色.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('点\ndot'),
+                  onPressed: (){
+                    play('pronunciation_zh_点.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('热\nheat'),
+                  onPressed: (){
+                    play('pronunciation_zh_热.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('照片\nphotograph'),
+                  onPressed: (){
+                    play('pronunciation_zh_照片.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('父亲\nfather'),
+                  onPressed: (){
+                    play('pronunciation_zh_父亲.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('片\npiece'),
+                  onPressed: (){
+                    play('pronunciation_zh_片.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('牛\ncow'),
+                  onPressed: (){
+                    play('pronunciation_zh_牛.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('牛奶\nmilk'),
+                  onPressed: (){
+                    play('pronunciation_zh_牛奶.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('牛肉\nbeef'),
+                  onPressed: (){
+                    play('pronunciation_zh_牛肉.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('牧师\npriest'),
+                  onPressed: (){
+                    play('pronunciation_zh_牧师.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('狗\ndog'),
+                  onPressed: (){
+                    play('pronunciation_zh_狗.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('狭窄\nnarrow'),
+                  onPressed: (){
+                    play('pronunciation_zh_狭窄.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('猪\npig'),
+                  onPressed: (){
+                    play('pronunciation_zh_猪.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('猪肉\npork'),
+                  onPressed: (){
+                    play('pronunciation_zh_猪肉.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('猫\ncat'),
+                  onPressed: (){
+                    play('pronunciation_zh_猫.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('玉米\ncorn'),
+                  onPressed: (){
+                    play('pronunciation_zh_玉米.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('王\nking'),
+                  onPressed: (){
+                    play('pronunciation_zh_王.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('环\nring'),
+                  onPressed: (){
+                    play('pronunciation_zh_环.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('玻璃\nglass'),
+                  onPressed: (){
+                    play('pronunciation_zh_玻璃.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('球\nball'),
+                  onPressed: (){
+                    play('pronunciation_zh_球.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('球队\nteam'),
+                  onPressed: (){
+                    play('pronunciation_zh_球队.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('瓶子\nbottle'),
+                  onPressed: (){
+                    play('pronunciation_zh_瓶子.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('生病\nsick'),
+                  onPressed: (){
+                    play('pronunciation_zh_生病.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('电子产品\nelectronics'),
+                  onPressed: (){
+                    play('pronunciation_zh_电子产品.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('电影\nmovie'),
+                  onPressed: (){
+                    play('pronunciation_zh_电影.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('电脑\ncomputer'),
+                  onPressed: (){
+                    play('pronunciation_zh_电脑.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('电视\ntelevision'),
+                  onPressed: (){
+                    play('pronunciation_zh_电视.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('电话\nphone'),
+                  onPressed: (){
+                    play('pronunciation_zh_电话.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('男\nmale'),
+                  onPressed: (){
+                    play('pronunciation_zh_男.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('男孩\nboy'),
+                  onPressed: (){
+                    play('pronunciation_zh_男孩.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('疾病\ndisease'),
+                  onPressed: (){
+                    play('pronunciation_zh_疾病.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('瘦\nthin'),
+                  onPressed: (){
+                    play('pronunciation_zh_瘦.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('白色\nwhite'),
+                  onPressed: (){
+                    play('pronunciation_zh_白色.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('白饭\nrice'),
+                  onPressed: (){
+                    play('pronunciation_zh_白饭.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('百\nhundred'),
+                  onPressed: (){
+                    play('pronunciation_zh_百.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('百万\nmillion'),
+                  onPressed: (){
+                    play('pronunciation_zh_百万.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('皮肤\nskin'),
+                  onPressed: (){
+                    play('pronunciation_zh_皮肤.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('盐\nsalt'),
+                  onPressed: (){
+                    play('pronunciation_zh_盐.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('监狱\nprison'),
+                  onPressed: (){
+                    play('pronunciation_zh_监狱.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('盘子\nplate'),
+                  onPressed: (){
+                    play('pronunciation_zh_盘子.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('直行\nstraight'),
+                  onPressed: (){
+                    play('pronunciation_zh_直行.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('相机\ncamera'),
+                  onPressed: (){
+                    play('pronunciation_zh_相机.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('看\nsee'),
+                  onPressed: (){
+                    play('pronunciation_zh_看.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('短裙\nskirt'),
+                  onPressed: (){
+                    play('pronunciation_zh_短裙.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('码\nyard'),
+                  onPressed: (){
+                    play('pronunciation_zh_码.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('砂\nsand'),
+                  onPressed: (){
+                    play('pronunciation_zh_砂.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('硬\nhard'),
+                  onPressed: (){
+                    play('pronunciation_zh_硬.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('礼品\ngift'),
+                  onPressed: (){
+                    play('pronunciation_zh_礼品.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('祖母\ngrandmother'),
+                  onPressed: (){
+                    play('pronunciation_zh_祖母.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('祖父\ngrandfather'),
+                  onPressed: (){
+                    play('pronunciation_zh_祖父.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('神\nGod'),
+                  onPressed: (){
+                    play('pronunciation_zh_神.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('种子\nseed'),
+                  onPressed: (){
+                    play('pronunciation_zh_种子.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('科学\nscience'),
+                  onPressed: (){
+                    play('pronunciation_zh_科学.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('秘书\nsecretary'),
+                  onPressed: (){
+                    play('pronunciation_zh_秘书.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('空气\nair'),
+                  onPressed: (){
+                    play('pronunciation_zh_空气.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('窗口\nwindow'),
+                  onPressed: (){
+                    play('pronunciation_zh_窗口.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('笔记本电脑\nlaptop'),
+                  onPressed: (){
+                    play('pronunciation_zh_笔记本电脑.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('第三\nthird'),
+                  onPressed: (){
+                    play('pronunciation_zh_第三.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('第五\nfifth'),
+                  onPressed: (){
+                    play('pronunciation_zh_第五.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('第四\nfourth'),
+                  onPressed: (){
+                    play('pronunciation_zh_第四.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('粉\npink'),
+                  onPressed: (){
+                    play('pronunciation_zh_粉.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('粘土\nclay'),
+                  onPressed: (){
+                    play('pronunciation_zh_粘土.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('糖\nsugar'),
+                  onPressed: (){
+                    play('pronunciation_zh_糖.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('紧\ntight'),
+                  onPressed: (){
+                    play('pronunciation_zh_紧.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('纸\npaper'),
+                  onPressed: (){
+                    play('pronunciation_zh_纸.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('经理\nmanager'),
+                  onPressed: (){
+                    play('pronunciation_zh_经理.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('绿色\ngreen'),
+                  onPressed: (){
+                    play('pronunciation_zh_绿色.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('网络\nnetwork'),
+                  onPressed: (){
+                    play('pronunciation_zh_网络.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('美丽\nbeautiful'),
+                  onPressed: (){
+                    play('pronunciation_zh_美丽.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('美元\ndollar'),
+                  onPressed: (){
+                    play('pronunciation_zh_美元.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('翅膀\nwing'),
+                  onPressed: (){
+                    play('pronunciation_zh_翅膀.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('老师\nteacher'),
+                  onPressed: (){
+                    play('pronunciation_zh_老师.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('耳\near'),
+                  onPressed: (){
+                    play('pronunciation_zh_耳.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('聋\ndeaf'),
+                  onPressed: (){
+                    play('pronunciation_zh_聋.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('肥皂\nsoap'),
+                  onPressed: (){
+                    play('pronunciation_zh_肥皂.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('肩\nshoulder'),
+                  onPressed: (){
+                    play('pronunciation_zh_肩.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('胡子\nbeard'),
+                  onPressed: (){
+                    play('pronunciation_zh_胡子.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('能源\nenergy'),
+                  onPressed: (){
+                    play('pronunciation_zh_能源.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('脏\ndirty'),
+                  onPressed: (){
+                    play('pronunciation_zh_脏.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('脑\nbrain'),
+                  onPressed: (){
+                    play('pronunciation_zh_脑.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('脚趾\ntoe'),
+                  onPressed: (){
+                    play('pronunciation_zh_脚趾.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('腿\nleg'),
+                  onPressed: (){
+                    play('pronunciation_zh_腿.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('膝盖\nknee'),
+                  onPressed: (){
+                    play('pronunciation_zh_膝盖.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('臂\narm'),
+                  onPressed: (){
+                    play('pronunciation_zh_臂.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('自行车\nbicycle'),
+                  onPressed: (){
+                    play('pronunciation_zh_自行车.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('舌\ntongue'),
+                  onPressed: (){
+                    play('pronunciation_zh_舌.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('舞\ndance'),
+                  onPressed: (){
+                    play('pronunciation_zh_舞.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('船\nboat'),
+                  onPressed: (){
+                    play('pronunciation_zh_船.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('艺术\nart'),
+                  onPressed: (){
+                    play('pronunciation_zh_艺术.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('艺术家\nartist'),
+                  onPressed: (){
+                    play('pronunciation_zh_艺术家.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('花\nflower'),
+                  onPressed: (){
+                    play('pronunciation_zh_花.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('花园\ngarden'),
+                  onPressed: (){
+                    play('pronunciation_zh_花园.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('英寸\ninch'),
+                  onPressed: (){
+                    play('pronunciation_zh_英寸.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('苹果\napple'),
+                  onPressed: (){
+                    play('pronunciation_zh_苹果.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('茶\ntea'),
+                  onPressed: (){
+                    play('pronunciation_zh_茶.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('草\ngrass'),
+                  onPressed: (){
+                    play('pronunciation_zh_草.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('药物\nmedicine'),
+                  onPressed: (){
+                    play('pronunciation_zh_药物.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('著名\nfamous'),
+                  onPressed: (){
+                    play('pronunciation_zh_著名.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('葡萄酒\nwine'),
+                  onPressed: (){
+                    play('pronunciation_zh_葡萄酒.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('蓝色\nblue'),
+                  onPressed: (){
+                    play('pronunciation_zh_蓝色.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('蛋糕\ncake'),
+                  onPressed: (){
+                    play('pronunciation_zh_蛋糕.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('血液\nblood'),
+                  onPressed: (){
+                    play('pronunciation_zh_血液.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('表\ntable'),
+                  onPressed: (){
+                    play('pronunciation_zh_表.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('衬衫\nshirt'),
+                  onPressed: (){
+                    play('pronunciation_zh_衬衫.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('裤子\npants'),
+                  onPressed: (){
+                    play('pronunciation_zh_裤子.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('西方\nwest'),
+                  onPressed: (){
+                    play('pronunciation_zh_西方.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('警察\npolice'),
+                  onPressed: (){
+                    play('pronunciation_zh_警察.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('记者\nreporter'),
+                  onPressed: (){
+                    play('pronunciation_zh_记者.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('谷\nvalley'),
+                  onPressed: (){
+                    play('pronunciation_zh_谷.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('起司\ncheese'),
+                  onPressed: (){
+                    play('pronunciation_zh_起司.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('身体\nbody'),
+                  onPressed: (){
+                    play('pronunciation_zh_身体.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('辅音\nconsonant'),
+                  onPressed: (){
+                    play('pronunciation_zh_辅音.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('边缘\nedge'),
+                  onPressed: (){
+                    play('pronunciation_zh_边缘.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('运动\nsport'),
+                  onPressed: (){
+                    play('pronunciation_zh_运动.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('运输\ntransportation'),
+                  onPressed: (){
+                    play('pronunciation_zh_运输.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('选举\nelection'),
+                  onPressed: (){
+                    play('pronunciation_zh_选举.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('邻居\nneighbor'),
+                  onPressed: (){
+                    play('pronunciation_zh_邻居.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('重\nheavy'),
+                  onPressed: (){
+                    play('pronunciation_zh_重.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('重量\nweight'),
+                  onPressed: (){
+                    play('pronunciation_zh_重量.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('金\ngold'),
+                  onPressed: (){
+                    play('pronunciation_zh_金.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('金属\nmetal'),
+                  onPressed: (){
+                    play('pronunciation_zh_金属.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('针\nneedle'),
+                  onPressed: (){
+                    play('pronunciation_zh_针.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('钢笔\npen'),
+                  onPressed: (){
+                    play('pronunciation_zh_钢笔.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('钱\nmoney'),
+                  onPressed: (){
+                    play('pronunciation_zh_钱.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('钻石\ndiamond'),
+                  onPressed: (){
+                    play('pronunciation_zh_钻石.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('铅笔\npencil'),
+                  onPressed: (){
+                    play('pronunciation_zh_铅笔.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('铜\ncopper'),
+                  onPressed: (){
+                    play('pronunciation_zh_铜.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('银\nsilver'),
+                  onPressed: (){
+                    play('pronunciation_zh_银.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('银行\nbank'),
+                  onPressed: (){
+                    play('pronunciation_zh_银行.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('键\nkey'),
+                  onPressed: (){
+                    play('pronunciation_zh_键.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('镇\ntown'),
+                  onPressed: (){
+                    play('pronunciation_zh_镇.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('长\nlong'),
+                  onPressed: (){
+                    play('pronunciation_zh_长.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('门\ndoor'),
+                  onPressed: (){
+                    play('pronunciation_zh_门.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('零\nzero'),
+                  onPressed: (){
+                    play('pronunciation_zh_零.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('面前\nfront'),
+                  onPressed: (){
+                    play('pronunciation_zh_面前.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('面包\nbread'),
+                  onPressed: (){
+                    play('pronunciation_zh_面包.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('音乐\nmusic'),
+                  onPressed: (){
+                    play('pronunciation_zh_音乐.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('页\npage'),
+                  onPressed: (){
+                    play('pronunciation_zh_页.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('颈部\nneck'),
+                  onPressed: (){
+                    play('pronunciation_zh_颈部.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('风\nfan'),
+                  onPressed: (){
+                    play('pronunciation_zh_风.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('飞机场\nairport'),
+                  onPressed: (){
+                    play('pronunciation_zh_飞机场.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('餐厅\nrestaurant'),
+                  onPressed: (){
+                    play('pronunciation_zh_餐厅.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('餐饮\nfood'),
+                  onPressed: (){
+                    play('pronunciation_zh_餐饮.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('饮料\nbeverage'),
+                  onPressed: (){
+                    play('pronunciation_zh_饮料.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('香蕉\nbanana'),
+                  onPressed: (){
+                    play('pronunciation_zh_香蕉.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('马\nhorse'),
+                  onPressed: (){
+                    play('pronunciation_zh_马.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('骨\nbone'),
+                  onPressed: (){
+                    play('pronunciation_zh_骨.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('高\nhigh'),
+                  onPressed: (){
+                    play('pronunciation_zh_高.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('鸟\nbird'),
+                  onPressed: (){
+                    play('pronunciation_zh_鸟.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('鸡\nchicken'),
+                  onPressed: (){
+                    play('pronunciation_zh_鸡.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('黄色\nyellow'),
+                  onPressed: (){
+                    play('pronunciation_zh_黄色.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('黑色\nblack'),
+                  onPressed: (){
+                    play('pronunciation_zh_黑色.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('鼻子\nnose'),
+                  onPressed: (){
+                    play('pronunciation_zh_鼻子.mp3');
+                  },
+                ),
+                RaisedButton(
+                  child: Text('齿\ntooth'),
+                  onPressed: (){
+                    play('pronunciation_zh_齿.mp3');
+                  },
+                )

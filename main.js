@@ -87,13 +87,16 @@ for(var i = 0; i < 4; i++){
 	result[i].push('');
 	for(var k = 0; k < translations[i].length; k++){
 	    if(translations[i][k].split(' ')[0] == finalwords[i][j]){
-		result[i][result[i].length - 1] += translations[i][k];
+		result[i][result[i].length - 1] += '\n                RaisedButton(\n                  child: Text(\'';
+		result[i][result[i].length - 1] += translations[i][k].split(' ')[0] + '\\n' + translations[i][k].split(' ')[1];
+		result[i][result[i].length - 1] += '\'),\n                  onPressed: (){\n                    play(\'';
 		break;
 	    }
 	}
 	for(var k = 0; k < filenames[i].length; k++){
 	    if(filenames[i][k].substr(17, filenames[i][k].length - (17 + 4)) == finalwords[i][j]){
-		result[i][result[i].length - 1] += '  ' + filenames[i][k];
+		result[i][result[i].length - 1] += filenames[i][k];
+		result[i][result[i].length - 1] += '\');\n                  },\n                )';
 		break;
 	    }
 	}
@@ -105,7 +108,7 @@ for(var i = 0; i < 4; i++){
 //console.log(translationswords);
 //console.log(filenameswords);
 //console.log(finalwords);
-console.log(result);
+//console.log(result);
 
-//fs.writeFileSync('result.txt', '');
-//fs.appendFileSync('result.txt', finalwords[3]);
+fs.writeFileSync('result.txt', '');
+fs.appendFileSync('result.txt', result[3]);
